@@ -1,2 +1,4 @@
 # hotel_price_prediction
-This repository contains the code that I've worked with Hotel price data in 2024. I
+* 이 리포지토리는 호텔 업계 가격 예측 모델을 생성하기 위해 작성된 코드중 일부입니다.
+* 학습데이터의 기간은 2022.01~2023.12 데이터로 학습을 하고 2024년 1월 데이터를 테스트 2024년 2월데이터로 검증하였습니다.
+* 회귀과제이기 때문에 MAPE를 핵심 지표로 삼았고  LFM에서 이미 평균 오차율 5%미만을 달성하였습니다.
